@@ -28,7 +28,7 @@ By using this software, you automatically agree to the above.
 
 
 <p align="center">
-  <img src="OnionClipper Builder.png">
+  <img src="/OnionClipper Builder.png">
 </p>
 
 # :hammer: Builder:
